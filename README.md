@@ -1,4 +1,4 @@
-#Spring MVC Stack 기반 스터디 프로젝트
+# Spring MVC Stack 기반 스터디 프로젝트
 ## 적용 기술
 
 ### 0) Basic

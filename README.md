@@ -10,5 +10,7 @@
 ### 1) Mapstruct
 - Mapping 라이브러리중 하나
 - ModelMapper의 reflection으로 인한 성능 저하에 대한 대안책
-- Lombok과 같은 nnotation processor가 구현체를 auto generate해준다
+- Lombok과 같은 annotation processor가 구현체를 auto generate해준다
+
+### 2) 이번에 뭐해볼까??
 
